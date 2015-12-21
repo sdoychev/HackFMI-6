@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HackFMI6</string>
+    <string name="front_left">Front \nLeft</string>
+    <string name="front">Front</string>
+    <string name="front_right">Front \nRight</string>
+    <string name="back_left">Back \nLeft</string>
+    <string name="back">Back</string>
+    <string name="back_right">Back \nRight</string>
+</resources>
